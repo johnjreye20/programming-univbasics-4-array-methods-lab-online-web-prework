@@ -18,6 +18,6 @@ using_last = ["Happy", "Sad", "Neutral"]
 using_last.last
 end
 
-def using_size(array)
-
+using_size = ["NY", "LA", "NO", "NC"]
+using_size.size
 end
