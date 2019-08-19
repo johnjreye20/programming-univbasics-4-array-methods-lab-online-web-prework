@@ -8,7 +8,6 @@ end
 
 using_reverse = ["step one", "step two", "step three"]
 using_reverse.reverse
-
 end
 
 def using_first(array)
