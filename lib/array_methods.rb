@@ -14,8 +14,8 @@ using_first = ["Yankees", "Astros", "Red Sox"]
 using_first.first
 end
 
-def using_last(array)
-
+using_last = ["Happy", "Sad", "Neutral"]
+using_last.last
 end
 
 def using_size(array)
