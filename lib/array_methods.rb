@@ -6,7 +6,8 @@ using_sort = ["array", "element", "method"]
 using_sort.sort!
 end
 
-def using_reverse(array)
+using_reverse = ["step one", "step two", "step three"]
+using_reverse.reverse
 
 end
 
