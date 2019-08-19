@@ -10,8 +10,8 @@ using_reverse = ["step one", "step two", "step three"]
 using_reverse.reverse
 end
 
-using_first(array)
-
+using_first = ["Yankees", "Astros", "Red Sox"]
+using_first.first
 end
 
 def using_last(array)
