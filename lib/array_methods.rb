@@ -2,8 +2,8 @@ using_include = ["array", "element"]
 using_include.include?("element")
 end
 
-def using_sort = ["array", "element", "method"]
-  using_sort.sort!
+using_sort = ["array", "element", "method"]
+using_sort.sort!
 end
 
 def using_reverse(array)
